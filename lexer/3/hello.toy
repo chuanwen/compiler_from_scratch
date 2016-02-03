@@ -1,0 +1,19 @@
+a=1.5   // a comment
+
+/* 
+ * a block of comment
+ * jfkldajfkdla
+ */
+
+b = 2.0
+a += 1.0
+x=a>=b
+y = z > 1.0
+z = a >> 10
+
+function add(x, y) {
+    return x + y
+}
+
+z = add(x, y)
+
